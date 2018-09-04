@@ -1,0 +1,4 @@
+export const UPLOAD_FILES = 'UPLOAD_FILES'
+export const DELETE_FILE = 'DELETE_FILE'
+export const DOWNLOAD_FILE = 'DOWNLOAD_FILE'
+export const ADD_MESSAGE = 'ADD_MESSAGE'
