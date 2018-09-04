@@ -1,7 +1,7 @@
 {
   "projects": {
-    "master": "redux-firebasev3",
-    "prod": "redux-firebasev3",
+    "master": "second-opinion-3e5f3",
+    "prod": "second-opinion-3e5f3",
     "default": "second-opinion-3e5f3"
   },
   "ci": {
@@ -9,12 +9,13 @@
       "master": {
         "version": "${npm_package_version}",
         "env": "development",
-        "firebase": {
-          "apiKey": "AIzaSyCTUERDM-Pchn_UDTsfhVPiwM4TtNIxots",
-          "authDomain": "redux-firebasev3.firebaseapp.com",
-          "databaseURL": "https://redux-firebasev3.firebaseio.com",
-          "projectId": "redux-firebasev3",
-          "storageBucket": "redux-firebasev3.appspot.com"
+        firebase: {
+          apiKey: "AIzaSyC0Q4CWa1j3K4N4u054mqYji8LrpUvih70",
+          authDomain: "second-opinion-3e5f3.firebaseapp.com",
+          databaseURL: "https://second-opinion-3e5f3.firebaseio.com",
+          projectId: "second-opinion-3e5f3",
+          storageBucket: "second-opinion-3e5f3.appspot.com",
+          messagingSenderId: "260108697311"
         },
         "reduxFirebase": {
           "userProfile": "users",
@@ -25,12 +26,13 @@
       "prod": {
         "version": "${npm_package_version}",
         "env": "production",
-        "firebase": {
-          "apiKey": "AIzaSyCTUERDM-Pchn_UDTsfhVPiwM4TtNIxots",
-          "authDomain": "redux-firebasev3.firebaseapp.com",
-          "databaseURL": "https://redux-firebasev3.firebaseio.com",
-          "projectId": "redux-firebasev3",
-          "storageBucket": "redux-firebasev3.appspot.com"
+        firebase: {
+          apiKey: "AIzaSyC0Q4CWa1j3K4N4u054mqYji8LrpUvih70",
+          authDomain: "second-opinion-3e5f3.firebaseapp.com",
+          databaseURL: "https://second-opinion-3e5f3.firebaseio.com",
+          projectId: "second-opinion-3e5f3",
+          storageBucket: "second-opinion-3e5f3.appspot.com",
+          messagingSenderId: "260108697311"
         },
         "reduxFirebase": {
           "userProfile": "users",

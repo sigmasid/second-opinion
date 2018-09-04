@@ -6,7 +6,7 @@
 **/node_modules
 **/functions
 coverage
-/storage.rules
-/project.config.js
-/.firebasesrc
+storage.rules
+project.config.js
+.firebaserc
 **/src/config.js
