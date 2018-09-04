@@ -4,4 +4,9 @@
 **/.DS_Store
 **/dist
 **/node_modules
+**/functions
 coverage
+storage.rules
+project.config.js
+.firebasesrc
+**/src/config.js
